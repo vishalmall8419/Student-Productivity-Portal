@@ -167,7 +167,7 @@ Configure application preferences and personalize the user experience.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-productivity-portal.git
+git clone https://github.com/vishalmall8419/student-productivity-portal.git
 ```
 
 ## Open the Project
